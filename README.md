@@ -2,4 +2,5 @@
 PostgreSQL In Class Demo Assignment
 
 
-
+Output from the queries:
+![Output](de-exercises-ss.jpg)
